@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0017/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部七
+  hash: sha256:64a5969b3afe2e85ac696d7e020b090ad39bf27686c233852ee7e14c72448e33
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0017_WYG_000-1a, image: WYG1314/WYG1314-0001a.png}
+body:
+  text: 范忠貞集别集類六國朝提要臣等謹案范忠貞集十巻國朝范承謨撰承謨字覲公號螺山鑲黄旗漢軍大學士文程子也初充侍衛順治辛夘詔八旗子弟均得應試遂以是科中式舉人次年壬辰成進士改庶吉士授𢎞文院編修官至福建總督康熙壬子逆藩耿精忠叛巡撫劉秉政降於賊承謨抗節死之賜諡忠貞所作畫壁詩石門吳震方嘗刻之説鈴中為世傳誦是編乃其全集為清苑劉可書所編首諭祭文御製碑文御題祠額附以家傳及祠堂記共為一巻次撫浙奏議一巻次督閩奏議一巻次吾廬存稿一巻次百苦吟一巻次畫壁遺稿一巻次襍著一巻次附録題跋哀挽詩文三巻其奏議多有闗國計之言詩文直抒胸臆慷慨激昂嚼齦裂眥之狀至今猶可想見文以人重承謨之謂矣乾隆四十五年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:1ae8cb99609fbc892b404e49ae2dcd86aab34866d39dc2c71a3f28af0305d3ea
+metadata:
+  title: 范忠貞集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:28:40.956693'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4f0017/KR4f0017_000.txt
+hash: sha256:d5af04753bbe1e45a995a2c19337246fda0b457dab9f2cf984b6a3ed52d6d141
